@@ -17,8 +17,8 @@ Easily backup and restore VEGAS Pro effects and other settings.
 * Windows 10, 11
 * VEGAS Pro 14 or later
 ## How to use
-* Back up  
-  Run "save.bat" in the folder of the item you want to back up.
+* Backup  
+  Run "save.bat" in the folder of the item you want to backup.
 * Restore  
   Run the backup file (it will contain the date of the backup in the file name).
 ## About trademarks
