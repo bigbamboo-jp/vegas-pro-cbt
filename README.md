@@ -12,7 +12,7 @@ Easily backup and restore VEGAS Pro effects and other settings.
 * [Render Templates](Render%20Templates)  
   Templates used when rendering video and audio.
 
-\* Each item must be backed up separately.
+\*Each item must be backed up separately.
 ## Operating environment
 * Windows 10, 11
 * VEGAS Pro 14 or later
@@ -20,8 +20,8 @@ Easily backup and restore VEGAS Pro effects and other settings.
 * Backup  
   Run "save.bat" in the folder of the item you want to backup.
 * Restore  
-  Run the backup file (it will contain the date of the backup in the file name).
+  Run the file containing the settings you wish to restore (each file has a backup date appended to its name, making it easy to identify).
 ## About trademarks
-Vegas is a registered trademark of MAGIX Software GmbH.
+Vegas is a registered trademark of [MAGIX Software GmbH](https://www.magix.com/us/).
 ## Licence
 Please see the [license file](LICENSE).
